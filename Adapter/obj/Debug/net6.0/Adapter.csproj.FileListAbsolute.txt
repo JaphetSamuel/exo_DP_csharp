@@ -1,0 +1,15 @@
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\SPACE\devspace\Nouveau\RealTime\Adapter\obj\Debug\net6.0\ref\Adapter.dll

@@ -1,0 +1,15 @@
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.csproj.AssemblyReference.cache
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.AssemblyInfoInputs.cache
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.AssemblyInfo.cs
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.csproj.CoreCompileInputs.cache
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\bin\Debug\net6.0\SingletonV1.exe
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\bin\Debug\net6.0\SingletonV1.deps.json
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\bin\Debug\net6.0\SingletonV1.runtimeconfig.json
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\bin\Debug\net6.0\SingletonV1.dll
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\bin\Debug\net6.0\SingletonV1.pdb
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.dll
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\refint\SingletonV1.dll
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.pdb
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\SingletonV1.genruntimeconfig.cache
+D:\SPACE\devspace\Nouveau\RealTime\SingletonV1\obj\Debug\net6.0\ref\SingletonV1.dll
